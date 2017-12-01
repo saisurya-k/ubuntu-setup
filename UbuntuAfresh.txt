@@ -1,0 +1,16 @@
+Installation Details:
+1.Google Chrome
+2.NVM
+3.Oracle JDK 8
+4.VisualStudio Code
+5.Git
+6.Intellij IDEA
+7.GUI Client for Git
+8.Clone Fav Repos
+9.Install Paper Theme
+10.Install Source Code Pro
+11.Install Main Menu
+12.Purge Crap from Ubuntu
+13.DotNET Core
+Enjoy Working
+
